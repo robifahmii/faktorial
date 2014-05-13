@@ -21,6 +21,7 @@ public class Faktorial {
                 }
                 jlh = jlh * i;
             }
+            System.out.println("jumlah angka" + a);
             System.out.println("\n   = " + jlh);
         }
     }
